@@ -1,0 +1,3 @@
+function pro() {
+location.href 
+}
